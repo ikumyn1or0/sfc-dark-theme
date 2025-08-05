@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "ikumyn1or0",
+        "label": "sfc-dark-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/ikumyn1or0-color-theme.json"
+        "path": "./themes/sfc-dark-theme.json"
+      },
+      {
+        "label": "sfc-dark-theme (No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sfc-dark-theme-no-italics.json"
       }
     ]
   }
