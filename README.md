@@ -1,16 +1,19 @@
-# sfc-dark-theme README
+# SFC Dark Theme (WIP)
 
-## Working with Markdown
+⚠️ **This theme is a work in progress. Colors and structure may change significantly.**
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Overview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This theme is inspired by Sanfreccce Hiroshima.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## color list
+- violet
+  - 1: "#0f0f2bff"
+  - 2: "#14143dff"
+  - 3: "#202063ff"
+  - 4: "#2d2d8dff"
+  - 5: "#4444adff"
+- white
+  - 1: "#cfcff0ff"
+- gold
+  - 1: "#c18413"

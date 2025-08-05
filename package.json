@@ -2,6 +2,7 @@
   "name": "sfc-dark-theme",
   "displayName": "SFC Dark Theme",
   "description": "Dark theme inspired by Sanfrecce Hiroshima",
+  "publisher": "ikumyn1or0",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"
@@ -15,12 +16,12 @@
         "label": "sfc-dark-theme",
         "uiTheme": "vs-dark",
         "path": "./themes/sfc-dark-theme.json"
-      },
-      {
-        "label": "sfc-dark-theme (No Italics)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sfc-dark-theme-no-italics.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikumyn1or0/sfc-dark-theme"
+  },
+  "license": "MIT"
 }
