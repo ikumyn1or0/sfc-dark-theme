@@ -1,0 +1,21 @@
+{
+  "name": "sfc-dark-theme",
+  "displayName": "SFC Dark Theme",
+  "description": "Dark theme inspired by Sanfrecce Hiroshima",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ikumyn1or0",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ikumyn1or0-color-theme.json"
+      }
+    ]
+  }
+}
