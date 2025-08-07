@@ -1,7 +1,19 @@
 # SFC Dark Theme
 
-⚠️ **This theme is a work in progress. Colors and structure may change significantly.**
-
 ## Overview
 
-This theme is inspired by Sanfreccce Hiroshima - **violet** Japanese football team.
+Dark and violet theme inspired by [Sanfreccce Hiroshima](https://www.sanfrecce.co.jp/).
+
+## Preview
+
+![preview](images/screenshot.png)
+
+## Installation
+
+1. Press `Ctrl+Shift+X` to open the Extensions panel
+2. Search for **SFC Dark Theme**
+3. Click **Install**, then open Command Palette and select the theme
+
+## License
+
+MIT © 2025 ikumyn1or0
