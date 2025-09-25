@@ -1,0 +1,13 @@
+- .jsonファイルを更新
+- package.jsonを更新
+  - "versions"を上げる
+- CHANGELOG.mdを更新
+  - "versions"を上げる
+- `vsce package`で.vsixファイルを作成
+- `vsce publish`で公開
+  - TokenがExpiredされていたら、以下の手順
+    - https://aex.dev.azure.com/me?mkt=ja-JP から自分のOrganizationにアクセス
+    - 右上の歯車からPersonal Access Tokensをクリック
+    - https://nikkie-ftnext.hatenablog.com/entry/publish-vscode-extensions-using-vsce-command-well このページを参考にしながらToken発行
+    - `vsce login <publisher name>`
+    - Tokenを入力

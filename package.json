@@ -3,7 +3,7 @@
   "displayName": "SFC Dark Theme",
   "description": "Dark theme inspired by Sanfrecce Hiroshima",
   "publisher": "ikumyn1or0",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.102.0"
   },

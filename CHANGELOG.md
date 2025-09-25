@@ -15,3 +15,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 
 - update text color
+
+## [0.0.3] - 2025-09-25
+
+### Changed
+
+- update text color
+
